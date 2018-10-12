@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Facade\bin\Debug\DesignPattern.Facade.exe.config
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Facade\bin\Debug\DesignPattern.Facade.exe
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Facade\bin\Debug\DesignPattern.Facade.pdb
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Facade\obj\Debug\DesignPattern.Facade.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Facade\obj\Debug\DesignPattern.Facade.exe
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Facade\obj\Debug\DesignPattern.Facade.pdb

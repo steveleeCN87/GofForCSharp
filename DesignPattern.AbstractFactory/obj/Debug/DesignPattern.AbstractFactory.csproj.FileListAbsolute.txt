@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.AbstractFactory\bin\Debug\DesignPattern.AbstractFactory.exe.config
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.AbstractFactory\bin\Debug\DesignPattern.AbstractFactory.exe
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.AbstractFactory\bin\Debug\DesignPattern.AbstractFactory.pdb
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.AbstractFactory\obj\Debug\DesignPattern.AbstractFactory.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.AbstractFactory\obj\Debug\DesignPattern.AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.AbstractFactory\obj\Debug\DesignPattern.AbstractFactory.exe
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.AbstractFactory\obj\Debug\DesignPattern.AbstractFactory.pdb

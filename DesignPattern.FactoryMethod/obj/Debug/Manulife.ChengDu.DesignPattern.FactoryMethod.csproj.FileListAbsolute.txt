@@ -1,0 +1,9 @@
+E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.FactoryMethod\obj\Debug\Manulife.ChengDu.DesignPattern.FactoryMethod.csprojResolveAssemblyReference.cache
+E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.FactoryMethod\bin\Debug\Manulife.ChengDu.DesignPattern.FactoryMethod.exe.config
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\Manulife.ChengDu.DesignPattern.FactoryMethod\bin\Debug\Manulife.ChengDu.DesignPattern.FactoryMethod.exe.config
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\Manulife.ChengDu.DesignPattern.FactoryMethod\bin\Debug\Manulife.ChengDu.DesignPattern.FactoryMethod.exe
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\Manulife.ChengDu.DesignPattern.FactoryMethod\bin\Debug\Manulife.ChengDu.DesignPattern.FactoryMethod.pdb
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\Manulife.ChengDu.DesignPattern.FactoryMethod\obj\Debug\Manulife.ChengDu.DesignPattern.FactoryMethod.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\Manulife.ChengDu.DesignPattern.FactoryMethod\obj\Debug\Manulife.ChengDu.DesignPattern.FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\Manulife.ChengDu.DesignPattern.FactoryMethod\obj\Debug\Manulife.ChengDu.DesignPattern.FactoryMethod.exe
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\Manulife.ChengDu.DesignPattern.FactoryMethod\obj\Debug\Manulife.ChengDu.DesignPattern.FactoryMethod.pdb

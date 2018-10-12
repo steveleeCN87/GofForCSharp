@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Adapter\bin\Debug\DesignPattern.Adapter.exe.config
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Adapter\bin\Debug\DesignPattern.Adapter.exe
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Adapter\bin\Debug\DesignPattern.Adapter.pdb
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Adapter\obj\Debug\DesignPattern.Adapter.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Adapter\obj\Debug\DesignPattern.Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Adapter\obj\Debug\DesignPattern.Adapter.exe
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Adapter\obj\Debug\DesignPattern.Adapter.pdb

@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Observer\bin\Debug\DesignPattern.Observer.exe.config
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Observer\bin\Debug\DesignPattern.Observer.exe
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Observer\bin\Debug\DesignPattern.Observer.pdb
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Observer\obj\Debug\DesignPattern.Observer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Observer\obj\Debug\DesignPattern.Observer.exe
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Observer\obj\Debug\DesignPattern.Observer.pdb

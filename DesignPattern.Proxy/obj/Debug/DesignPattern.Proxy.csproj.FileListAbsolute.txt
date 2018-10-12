@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Proxy\bin\Debug\DesignPattern.Proxy.exe.config
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Proxy\bin\Debug\DesignPattern.Proxy.exe
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Proxy\bin\Debug\DesignPattern.Proxy.pdb
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Proxy\obj\Debug\DesignPattern.Proxy.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Proxy\obj\Debug\DesignPattern.Proxy.exe
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Proxy\obj\Debug\DesignPattern.Proxy.pdb

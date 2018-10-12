@@ -1,0 +1,13 @@
+E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.SimpleFactory\bin\Debug\Manulife.ChengDu.DesignPattern.SimpleFactory.exe.config
+E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.SimpleFactory\bin\Debug\Manulife.ChengDu.DesignPattern.SimpleFactory.exe
+E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.SimpleFactory\bin\Debug\Manulife.ChengDu.DesignPattern.SimpleFactory.pdb
+E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.SimpleFactory\obj\Debug\Manulife.ChengDu.DesignPattern.SimpleFactory.csprojResolveAssemblyReference.cache
+E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.SimpleFactory\obj\Debug\Manulife.ChengDu.DesignPattern.SimpleFactory.exe
+E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.SimpleFactory\obj\Debug\Manulife.ChengDu.DesignPattern.SimpleFactory.pdb
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\Manulife.ChengDu.DesignPattern.SimpleFactory\bin\Debug\Manulife.ChengDu.DesignPattern.SimpleFactory.exe.config
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\Manulife.ChengDu.DesignPattern.SimpleFactory\bin\Debug\Manulife.ChengDu.DesignPattern.SimpleFactory.exe
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\Manulife.ChengDu.DesignPattern.SimpleFactory\bin\Debug\Manulife.ChengDu.DesignPattern.SimpleFactory.pdb
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\Manulife.ChengDu.DesignPattern.SimpleFactory\obj\Debug\Manulife.ChengDu.DesignPattern.SimpleFactory.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\Manulife.ChengDu.DesignPattern.SimpleFactory\obj\Debug\Manulife.ChengDu.DesignPattern.SimpleFactory.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\Manulife.ChengDu.DesignPattern.SimpleFactory\obj\Debug\Manulife.ChengDu.DesignPattern.SimpleFactory.exe
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\Manulife.ChengDu.DesignPattern.SimpleFactory\obj\Debug\Manulife.ChengDu.DesignPattern.SimpleFactory.pdb

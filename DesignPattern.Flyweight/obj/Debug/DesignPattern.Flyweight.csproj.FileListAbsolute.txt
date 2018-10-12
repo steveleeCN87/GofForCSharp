@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Flyweight\bin\Debug\DesignPattern.Flyweight.exe.config
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Flyweight\bin\Debug\DesignPattern.Flyweight.exe
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Flyweight\bin\Debug\DesignPattern.Flyweight.pdb
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Flyweight\obj\Debug\DesignPattern.Flyweight.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Flyweight\obj\Debug\DesignPattern.Flyweight.exe
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Flyweight\obj\Debug\DesignPattern.Flyweight.pdb

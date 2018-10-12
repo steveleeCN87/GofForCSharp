@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Iterator\bin\Debug\DesignPattern.Iterator.exe.config
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Iterator\bin\Debug\DesignPattern.Iterator.exe
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Iterator\bin\Debug\DesignPattern.Iterator.pdb
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Iterator\obj\Debug\DesignPattern.Iterator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Iterator\obj\Debug\DesignPattern.Iterator.exe
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Iterator\obj\Debug\DesignPattern.Iterator.pdb

@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Prototype\bin\Debug\DesignPattern.Prototype.exe.config
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Prototype\bin\Debug\DesignPattern.Prototype.exe
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Prototype\bin\Debug\DesignPattern.Prototype.pdb
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Prototype\obj\Debug\DesignPattern.Prototype.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Prototype\obj\Debug\DesignPattern.Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Prototype\obj\Debug\DesignPattern.Prototype.exe
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Prototype\obj\Debug\DesignPattern.Prototype.pdb

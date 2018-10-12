@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Mediator\bin\Debug\DesignPattern.Mediator.exe.config
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Mediator\bin\Debug\DesignPattern.Mediator.exe
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Mediator\bin\Debug\DesignPattern.Mediator.pdb
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Mediator\obj\Debug\DesignPattern.Mediator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Mediator\obj\Debug\DesignPattern.Mediator.exe
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Mediator\obj\Debug\DesignPattern.Mediator.pdb

@@ -1,0 +1,12 @@
+E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Prototype\bin\Debug\Manulife.ChengDu.DesignPattern.Prototype.exe.config
+E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Prototype\bin\Debug\Manulife.ChengDu.DesignPattern.Prototype.exe
+E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Prototype\bin\Debug\Manulife.ChengDu.DesignPattern.Prototype.pdb
+E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Prototype\obj\Debug\Manulife.ChengDu.DesignPattern.Prototype.exe
+E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Prototype\obj\Debug\Manulife.ChengDu.DesignPattern.Prototype.pdb
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\Manulife.ChengDu.DesignPattern.Prototype\bin\Debug\Manulife.ChengDu.DesignPattern.Prototype.exe.config
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\Manulife.ChengDu.DesignPattern.Prototype\bin\Debug\Manulife.ChengDu.DesignPattern.Prototype.exe
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\Manulife.ChengDu.DesignPattern.Prototype\bin\Debug\Manulife.ChengDu.DesignPattern.Prototype.pdb
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\Manulife.ChengDu.DesignPattern.Prototype\obj\Debug\Manulife.ChengDu.DesignPattern.Prototype.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\Manulife.ChengDu.DesignPattern.Prototype\obj\Debug\Manulife.ChengDu.DesignPattern.Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\Manulife.ChengDu.DesignPattern.Prototype\obj\Debug\Manulife.ChengDu.DesignPattern.Prototype.exe
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\Manulife.ChengDu.DesignPattern.Prototype\obj\Debug\Manulife.ChengDu.DesignPattern.Prototype.pdb

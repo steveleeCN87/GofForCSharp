@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Builder\bin\Debug\DesignPattern.Builder.exe.config
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Builder\bin\Debug\DesignPattern.Builder.exe
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Builder\bin\Debug\DesignPattern.Builder.pdb
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Builder\obj\Debug\DesignPattern.Builder.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Builder\obj\Debug\DesignPattern.Builder.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Builder\obj\Debug\DesignPattern.Builder.exe
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Builder\obj\Debug\DesignPattern.Builder.pdb

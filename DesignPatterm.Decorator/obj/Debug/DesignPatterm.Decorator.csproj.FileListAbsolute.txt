@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPatterm.Decorator\bin\Debug\DesignPatterm.Decorator.exe.config
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPatterm.Decorator\bin\Debug\DesignPatterm.Decorator.exe
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPatterm.Decorator\bin\Debug\DesignPatterm.Decorator.pdb
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPatterm.Decorator\obj\Debug\DesignPatterm.Decorator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPatterm.Decorator\obj\Debug\DesignPatterm.Decorator.exe
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPatterm.Decorator\obj\Debug\DesignPatterm.Decorator.pdb

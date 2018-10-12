@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Visitor\bin\Debug\DesignPattern.Visitor.exe.config
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Visitor\bin\Debug\DesignPattern.Visitor.exe
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Visitor\bin\Debug\DesignPattern.Visitor.pdb
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Visitor\obj\Debug\DesignPattern.Visitor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Visitor\obj\Debug\DesignPattern.Visitor.exe
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Visitor\obj\Debug\DesignPattern.Visitor.pdb

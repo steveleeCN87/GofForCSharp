@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Memento\bin\Debug\DesignPattern.Memento.exe.config
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Memento\bin\Debug\DesignPattern.Memento.exe
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Memento\bin\Debug\DesignPattern.Memento.pdb
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Memento\obj\Debug\DesignPattern.Memento.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Memento\obj\Debug\DesignPattern.Memento.exe
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Memento\obj\Debug\DesignPattern.Memento.pdb

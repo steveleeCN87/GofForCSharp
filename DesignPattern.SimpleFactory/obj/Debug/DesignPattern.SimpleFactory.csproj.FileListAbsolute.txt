@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.SimpleFactory\bin\Debug\DesignPattern.SimpleFactory.exe.config
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.SimpleFactory\bin\Debug\DesignPattern.SimpleFactory.exe
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.SimpleFactory\bin\Debug\DesignPattern.SimpleFactory.pdb
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.SimpleFactory\obj\Debug\DesignPattern.SimpleFactory.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.SimpleFactory\obj\Debug\DesignPattern.SimpleFactory.exe
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.SimpleFactory\obj\Debug\DesignPattern.SimpleFactory.pdb

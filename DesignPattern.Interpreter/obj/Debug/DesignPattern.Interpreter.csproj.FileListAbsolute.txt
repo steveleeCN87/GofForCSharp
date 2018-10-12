@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Interpreter\bin\Debug\DesignPattern.Interpreter.exe.config
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Interpreter\bin\Debug\DesignPattern.Interpreter.exe
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Interpreter\bin\Debug\DesignPattern.Interpreter.pdb
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Interpreter\obj\Debug\DesignPattern.Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Interpreter\obj\Debug\DesignPattern.Interpreter.exe
+C:\Users\Administrator\Desktop\DesignPatternDemos-master\DesignPattern.Interpreter\obj\Debug\DesignPattern.Interpreter.pdb
